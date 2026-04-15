@@ -1,4 +1,4 @@
-# AWS MCP Server
+# BAWS MCP Server
 
 [![smithery badge](https://smithery.ai/badge/mcp-server-aws)](https://smithery.ai/server/mcp-server-aws)
 
